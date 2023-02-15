@@ -1,0 +1,43 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "05989c61cf1c81772f0c77d3a0adee921879b5d7a3ba9e3d0292bed28f1b85a7"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.tuna.tsinghua.edu.cn/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pyqt6": {
+            "hashes": [
+                "sha256:25bd399b4a95dce65d5f937c1aa85d3c7e14a21745ae2a4ca14c0116cd104290",
+                "sha256:740244f608fe15ee1d89695c43f31a14caeca41c4f02ac36c86dfba4a5d5813d"
+            ],
+            "index": "pypi",
+            "version": "==6.4.2"
+        },
+        "pyqt6-qt6": {
+            "hashes": [
+                "sha256:d19c4e72615762cd6f0b043f23fa5f0b02656091427ce6de1efccd58e10e6a53"
+            ],
+            "version": "==6.4.2"
+        },
+        "pyqt6-sip": {
+            "hashes": [
+                "sha256:36ae29cdc223cacc1257d0f5075cf81474550c6d26b728f922487a2aa935f130",
+                "sha256:e00e287ea05bbc293fc6e2198301962af9b7b622bd2daf4288f925a88ae35dc9"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==13.4.1"
+        }
+    },
+    "develop": {}
+}
