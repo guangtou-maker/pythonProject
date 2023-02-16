@@ -1,0 +1,12 @@
+QLabel#notice {
+    font-size: 20px;
+    color: red;
+}
+QLabel#notice[level="error"] {
+    font-size: 20px;
+    color: red;
+}
+QLabel#notice[level="success"] {
+    font-size: 20px;
+    color: green;
+}
